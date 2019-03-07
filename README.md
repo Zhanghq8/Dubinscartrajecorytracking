@@ -42,7 +42,7 @@ odelineardubinscarTracking.m
 1. Augmented dubinscar system:
 - Run `augdubinscar`.
 2. Linear dubinscar system:
-- Run `lineardubinscar`.
+- Run `lineardubinscar`.   
 *Note: you may need to enter the folder contain the code.*
 
 ## Screenshots
