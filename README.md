@@ -2,14 +2,15 @@
  
 ## Maintainer
 - [Hanqing Zhang], <<hzhang8@wpi.edu>>, WPI   
-*Note: The project is based on the homework from robot control course(RBE502) of WPI*    
+*Note: The project is based on the homework from robot control course(RBE502) of WPI. And the Dubins car model(http://planning.cs.uiuc.edu/node658.html).*    
 
 ## Dependencies
 
 - Ubuntu 16.04
 - MATLAB 2018a
 
-## Description   
+## Description
+
 1. Augmented dubinscar system
 - main fuction     
 ```
